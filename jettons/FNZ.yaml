@@ -1,10 +1,8 @@
-name: Fanzee Token
-description: fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences
-address: 0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739
-symbol: FNZ
-websites:
-  - "https://fanz.ee"
-  - "https://app.fanz.ee"
-social:
-  - "https://t.me/fanzeelabs"
-  - "https://twitter.com/fanzeelabs"
+{
+  "address": "0:418422e73b97728ef54b246e27eb8fb588242587f46edc17dea410af7f066003",
+  "name": "TITANIUM",
+  "symbol": "Ti",
+  "decimals": "9",
+  "image": "https://i.ibb.co/85bTzxM/ti.png",
+  "description": " TITANIUM is a meme cryptocurrency that offers a unique feature: holders of TITANIUM can earn other cryptocurrencies as rewards. The project combines elements of gaming and investing, providing users with the opportunity to profit from their meme coin."
+}
